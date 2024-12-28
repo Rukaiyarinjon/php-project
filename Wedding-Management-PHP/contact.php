@@ -159,7 +159,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-6 pr-2">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.804581750715!2d125.08993251421961!3d7.915471407613357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32ff1a2d27bfc2c5%3A0x49f6694edf036a5a!2sAMA+Computer+Learning+Center!5e0!3m2!1sen!2sph!4v1518944564341" width="95%" height="395" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                    <iframe src="https://www.google.com/search?q=google+map+bangladesh&rlz=1C1GCEA_enBD1131BD1131&oq=google+map+ba&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBggBEEUYOTIKCAIQABjJAxiABDINCAMQABiSAxiABBiKBTIKCAQQABiSAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTExMTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8" width="95%" height="395" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <button type="submit" class="btn btn-primary btn-sm rounded-0" style="font-size: 12px;margin-top: 10px;background: #22adb5;border: 0;">Send Message</button>
